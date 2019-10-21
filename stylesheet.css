@@ -88,4 +88,5 @@ ol, li {font-size:20px;}
 @media print {
 	#contents {padding-top:300px;}
 	ol, li, a {font-size: 20px;}
+	hr {display: none;}
 }
